@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<hyml lang="en">
+<head>
+	<title>HTML Text Formatting</title>
+</head>
+
+<body>
+	<h1>Images</h1>
+	
+	This is some text. Which has <b><i>some words in bold and italic</i></b>
+</body>
+</html>
